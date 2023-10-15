@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "nebula_hollowregular";
+  src: url("../font/nebula-hollow-webfont.woff2") format("woff2"),
+    url("../font/nebula-hollow-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "nebularegular";
+  src: url("../font/nebula-regular-webfont.woff2") format("woff2"),
+    url("../font/nebula-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir LT Std 45 Book";
+  src: url("../font/AvenirLTStd-Book.eot");
+  src: url("../font/AvenirLTStd-Book.eot?#iefix") format("embedded-opentype"),
+    url("../font/AvenirLTStd-Book.woff2") format("woff2"),
+    url("../font/AvenirLTStd-Book.woff") format("woff"),
+    url("../font/AvenirLTStd-Book.ttf") format("truetype"),
+    url("../font/AvenirLTStd-Book.svg#AvenirLTStd-Book") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
